@@ -1,0 +1,19 @@
+Q.1 : what is programming language ?
+Ans : A set of instructions that instruct a computer how to carry out task is the process of programming. 
+
+Q.2 : why do we need a programming language ?
+Ans :  we need programming to translate code directions into binary code that devices can follow as apps, websites, and software programs. Coding plays a crucial role in our increasingly digital world. Many aspects of modern life rely on coding.
+
+Q.3 : what are the features of java ?
+Ans : it a plantform independent language , it is secure , portable , distributed , etc.
+
+Q.4 : what is object ?
+Ans : an object is an entity with state and behaviour.
+
+Q.5 : what is class ?
+Ans : a class is a collection of ojects that have similar traits, behaviours and attributes.
+
+Q.6 : explain main() method in java ?
+Ans : the main() is a starting point for JVM to start execution of a java program. without the main() method JVM will not execute the program. the syntax of the main() method is public , public is access specifier. we should use a public keyword before the main () method so that JVM can identify the execution point of the program.
+
+
