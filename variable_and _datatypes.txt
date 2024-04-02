@@ -1,0 +1,28 @@
+
+Q.1 : What is staticallY type and dynamically type Programming language ?
+Ans : if the memory of the variable is given during the compilation time itself then such type of programming language are called as "Statically typed".
+      if the memory of the variable is given during the execution time itself then such atype of programming language are called as "Dynamically typed".
+
+Q.2 : What are variables in java ?
+Ans : a variable is the title of a reserved region allocated in memory. in other words, it may be referred to as the name of a memory location. 
+
+Q.3 : How to assign value to a variable ?
+Ans : To assign a value to a variable in Java, use the assignment operator (=)
+
+Q.4 : What is primitive data types in Java ?
+Ans : the primitive data types include boolean, char,  byte, short, int, long, float and double.
+
+Q.5 : what are identifier in java ?
+Ans : An identifier is a name given to a package, class, interface, method or variable. All identifier must have different names.
+
+Q.6 : List the operators in java ?
+Ans : There are 6 types of operators in java :
+      1. arithmetic operators
+      2. relational operators
+      3. logical operators
+      4. unary operators
+      5. bitwise operators
+
+Q.7 : Explain about Increment and decrement operators and give its example.
+Ans : Increment - the value of operand is increased by 1. example: num = 4; num++;  it will give num = 5
+      decrement - the value of operand is decresed by 1. example: num = 4; num--; it will give num = 3.
